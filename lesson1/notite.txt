@@ -4,3 +4,10 @@ Story
 Story points
 Spint
 Scrum
+
+git clone https://github.com/gstratan/tekwill_oca
+git add *
+git config --global user.email "gstratan@gmail.com"
+git config --global user.name "Stratan Gheorghe"
+git commit -am "prima lectie"
+git push origin master
